@@ -5,6 +5,4 @@
 npm install
 ```
 ### Project review
-```
 First config with Gulp
-```
